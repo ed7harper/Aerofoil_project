@@ -15,4 +15,4 @@ self directed project aimed at understanding how different aerofoil shapes and a
 3. import the CSV file into fusion as a spline
 
 ## Images
-![Aerofoil matplotlib](symetrical_aerofoil.png)
+![Aerofoil matplotlib](SymetricalAerofoil.png)
